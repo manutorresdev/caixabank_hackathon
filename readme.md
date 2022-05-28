@@ -12,7 +12,7 @@ Para utilizarlo:
 Para reutilizar el código en web/app, los componentes se pueden pintar de forma variable según la plataforma de donde cargue la app.
 Ejemplo:
 
-    ```jsx
+    ```
     const isWeb = Platform.OS === 'web'
 
     return (
