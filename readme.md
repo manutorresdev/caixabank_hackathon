@@ -7,7 +7,7 @@ Para utilizarlo:
     2. Instalar el paquete de expo-cli. [expo install](https://docs.expo.io/versions/latest/sdk/cli/install/).
     3. Utilizar el comando: expo start o npm start.
 
-## Reutilización Código Web/App
+## Reutilización Componentes Web/App
 
 Para reutilizar el código en web/app, los componentes se pueden pintar de forma variable según la plataforma de donde cargue la app.
 Ejemplo:
